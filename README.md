@@ -6,20 +6,26 @@
  ## Building from Source
 
 1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
+   
 2. Fetch latest source code from master branch.
 
 ```
 git clone https://github.com/priyanshudutta04/JustChat.git
 ```
 
-3. Run the app with Android Studio or VS Code. Or the command line:
+3. Add a new project in [Firebase Console](https://console.firebase.google.com/) and under Authentication enable Email/Password sign in
+   
+4. Replace the firebase_options.dart file.
+
+5. Run the app with Android Studio or VS Code. Or the command line:
 
 ```
 flutter pub get
 flutter run
 ```
 
-## Support
+## Contributing 🤝
 
-If you like this project,do give it a ⭐and share it with your friends
+Contributions are always welcome. Feel free to make a pull request. Thanks to all the future contributors!
 
+If you like this project, do give it a ⭐
