@@ -1,5 +1,5 @@
 # JustChat
- A simple chat application created using flutter and firebase. Work in progress.
+ A simple realtime chat application created using flutter and firebase. Work in progress.
 
  [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/)
 
